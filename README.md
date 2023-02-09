@@ -10,9 +10,10 @@ Currently my expertise consists of:<br>
 |-----:|-----------|
 |     C#| :green_square::green_square::green_square::green_square::black_large_square:|
 |     WPF| :green_square::green_square::green_square::green_square::black_large_square:    |
+|     JavaScript| :green_square::green_square::green_square::black_large_square::black_large_square:|
 |     SQL| :green_square::green_square::green_square::black_large_square::black_large_square:|
-|     HTML| :green_square::green_square::green_square::black_large_square::black_large_square:|
-|     CSS| :green_square::green_square::green_square::black_large_square::black_large_square:|
+|     HTML| :green_square::green_square::green_square::green_square::black_large_square:|
+|     CSS| :green_square::green_square::green_square::green_square::black_large_square:|
 
 Currently im learning more about Javascript, 
 
