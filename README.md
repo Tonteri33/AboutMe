@@ -8,6 +8,7 @@ Currently I'm studying in LAB University of Applied Science in Lahti for a Bache
 Currently my expertise consists of:<br>
 | Language | Expertise |
 |-----:|-----------|
+|     React| :green_square::green_square::green_square::black_large_square::black_large_square:|
 |     C#| :green_square::green_square::green_square::green_square::black_large_square:|
 |     WPF| :green_square::green_square::green_square::green_square::black_large_square:    |
 |     JavaScript| :green_square::green_square::green_square::black_large_square::black_large_square:|
@@ -15,7 +16,7 @@ Currently my expertise consists of:<br>
 |     HTML| :green_square::green_square::green_square::green_square::black_large_square:|
 |     CSS| :green_square::green_square::green_square::green_square::black_large_square:|
 
-Currently im learning more about Javascript, 
+Currently im learning more about Javascript and React, 
 
 You can contact me in:
 
